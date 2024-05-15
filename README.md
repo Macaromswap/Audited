@@ -1,6 +1,6 @@
 # Macaron Dex
 
-# TESTNET
+## TESTNET
 ```
 "chainid": 200810
 "rpc": https://testnet-rpc.bitlayer.org
@@ -8,7 +8,8 @@
 "router": "0x8837a71f2f16243B7f741Ffb31d95e046Fd36B69",
 "WBTC": "0x3e57d6946f893314324C975AA9CEBBdF3232967E",
 ```
-# MAINNET
+
+## MAINNET
 ```
 "chainid": 200901
 "rpc": https://rpc.bitlayer.org
@@ -18,6 +19,25 @@
 ```
 
 # StableSwap
+
+## TESTNET
+```
+swapInfo : 0x2dB164d05A1bC11904597796F6082ad9589318E8
+
+usdt_usdc :
+Swap : 0xbf7B5573043e0a803F436241ffFE3048A5EfD203
+Lp : 0xeB454A50CDD6273740E538A49F12d64c5Ed1246e
+Coin0 : 0x290a04E89Ef5569d1e54a85f9E88D0B4336ab716 (usdc)
+Coin1 : 0x55dDae11141f5B1DD796738f9c6f570e56ccC690 (usdt)
+
+stbtc_wbtc :
+Swap : 0xC16fE42451AEFEbAf3B45B308Cd148A2c0e619E1
+Lp : 0x5A3289ceCe2fFd2be1D4806e9ab3ddbaD0b05148
+Coin0 : 0x3e57d6946f893314324C975AA9CEBBdF3232967E (wbtc)
+Coin1 : 0xb9f2E5109F1ECB756EE3d3558dBb4248E7c6559b (stbtc) 
+```
+
+## MAINNET
 ```
 Factory: 0xe9065eBEc9705c12d7F5bfDe35bf30914eDaa4cE
 
