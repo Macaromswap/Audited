@@ -4,8 +4,8 @@
 ```
 "chainid": 200810
 "rpc": https://testnet-rpc.bitlayer.org
-"factory": "0x5f2c2190d92E8986f63304B8a2b273dff75f4D66",
-"router": "0x8837a71f2f16243B7f741Ffb31d95e046Fd36B69",
+"factory": "0x8e8867CB4f2E4688ec1962d19A654a084659307c",
+"router": "0xA16fC83947D26f8a16cA02DC30D95Af5440C38AD",
 "WBTC": "0x3e57d6946f893314324C975AA9CEBBdF3232967E",
 ```
 
@@ -13,8 +13,8 @@
 ```
 "chainid": 200901
 "rpc": https://rpc.bitlayer.org
-"factory": "0x05daB9D11A0e14E68862cd08A73A7362Bb93a331",
-"router": "0x5f2c2190d92E8986f63304B8a2b273dff75f4D66",
+"factory": "0x1037E9078df7ab09B9AF78B15D5E7aaD7C1AfDd0",
+"router": "0xB0Cc30795f9E0125575742cFA8e73D20D9966f81",
 "WBTC": "0xfF204e2681A6fA0e2C3FaDe68a1B28fb90E4Fc5F",
 ```
 
